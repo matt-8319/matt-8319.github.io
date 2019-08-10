@@ -1,0 +1,29 @@
+body {
+    background: #202020;
+    color: #FAFAFA;
+}
+
+main {
+
+}
+
+.icons-social a {
+    color: #FAFAFA;
+}
+
+.icons-social a svg path {
+    fill: #FAFAFA;
+}
+
+a, a:visited {
+    color: white;
+    text-decoration: none;
+}
+
+li {
+    padding: 1em 0 1em 0;
+}
+
+i {
+    font-size: 2em;
+}
